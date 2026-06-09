@@ -1,0 +1,5 @@
+1. Implementar contraseñas robustas para los usuarios.
+2. Proteger la información personal almacenada en la plataforma.
+3. Utilizar conexiones seguras para transmitir datos.
+4. Realizar monitoreo periódico de accesos y actividades.
+5. Asignar permisos según las funciones de cada usuario.
