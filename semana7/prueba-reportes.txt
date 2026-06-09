@@ -1,0 +1,4 @@
+Al consultar la ruta GET /reportes, el sistema muestra la lista de reportes que han sido registrados previamente.
+Cada reporte contiene un identificador, un tipo y una descripción.
+Si no existen reportes registrados, la respuesta será una lista vacía.
+Cuando se agregan reportes mediante la ruta POST, estos aparecen posteriormente al consultar la ruta GET.
