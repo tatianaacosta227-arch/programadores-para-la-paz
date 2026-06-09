@@ -1,0 +1,8 @@
+La seguridad digital desempeña un papel fundamental en el funcionamiento de las plataformas comunitarias.
+Proteger la información de los usuarios permite generar confianza y garantizar una participación segura.
+Las medidas de seguridad ayudan a evitar accesos no autorizados y posibles pérdidas de información.
+Además, permiten mantener la disponibilidad y el correcto funcionamiento de los servicios digitales.
+El uso responsable de credenciales y la actualización constante de los sistemas reducen riesgos de ataques informáticos. 
+También contribuyen a proteger datos sensibles de las comunidades. 
+Por esta razón, la seguridad debe considerarse un elemento esencial en cualquier proyecto tecnológico participativo.
+Su aplicación beneficia tanto a los administradores como a los usuarios de la plataforma.
