@@ -1,0 +1,10 @@
+Las plataformas tecnológicas que utilizan las comunidades deben funcionar de manera estable y segura para garantizar una participación continua. 
+Cuando un servidor presenta fallas, los usuarios pueden perder acceso a la información y a los servicios disponibles. 
+Esto afecta la comunicación y disminuye la confianza en la plataforma. 
+Por esta razón, es importante implementar medidas de seguridad, monitoreo y mantenimiento constante.
+Las copias de seguridad ayudan a proteger los datos ante posibles incidentes.
+Los registros o logs permiten detectar errores y solucionarlos rápidamente.
+Además, mantener actualizado el sistema reduce riesgos de seguridad. 
+La continuidad operativa garantiza que los servicios estén disponibles cuando la comunidad los necesite.
+Una plataforma confiable fortalece la participación ciudadana y mejora la experiencia de los usuarios. 
+Por ello, la estabilidad y la seguridad son elementos esenciales en cualquier entorno digital comunitario.
